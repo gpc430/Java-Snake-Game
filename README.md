@@ -1,6 +1,13 @@
 # Java-Snake-Game
-Java Snake game source code
 
-http://zetcode.com/javagames/snake/  
+This is an old school game of snake power by java swing.
+Please enjoy!
 
-![Snake game screenshot](snake.png)
+Version: v1.0
+JDK version: 15
+
+Runnable Platform: Window, Linux, Mac
+
+How to start the game:
+java -jar snake.jar
+
